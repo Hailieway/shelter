@@ -1,0 +1,16 @@
+@media screen and (max-width: 1280px) {
+    .container{
+        width: 48%;
+    }
+}
+@media screen and (max-width: 768px) {
+    .container{
+        width: 90%;
+    }
+    .pet-wrap{
+        justify-content: center;
+    }
+    .pet-item{
+        width: 90%;
+    }
+}
